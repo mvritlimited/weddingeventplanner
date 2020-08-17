@@ -1,0 +1,3 @@
+[submodule "themes/weddingeventplanner"]
+	path = themes/weddingeventplanner
+	url = https://github.com/janraasch/hugo-scroll.git
